@@ -1,3 +1,5 @@
+# Calculadora Simples (Soma, Subtração, Divisão e Multiplicação)
+
 while True:
     num1 = input("Digite um valor: ")
     num2 = input("Digite outro valor: ")
